@@ -1,0 +1,12 @@
+pyaudio
+torch
+torchaudio
+numpy
+kokoro
+fastapi
+websockets
+uvicorn
+gunicorn
+mlx
+tiktoken
+numba

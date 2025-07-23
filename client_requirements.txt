@@ -1,0 +1,5 @@
+pyaudio
+torch
+torchaudio
+websockets
+numpy
