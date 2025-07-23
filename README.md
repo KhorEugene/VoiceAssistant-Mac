@@ -13,7 +13,7 @@ This repository includes code to host a full, local speech-to-speech pipeline on
 
 
 ## Design
-<img width="996" height="473" alt="image" src="https://github.com/user-attachments/assets/b8724e6f-10f0-4fa8-8e52-4994bdff2b3c" />
+<img width="965" height="446" alt="image" src="https://github.com/user-attachments/assets/5574611a-108b-4d01-a7fe-94889f3b33c6" />
 
 There are 4 components to the fully functioning pipeline
 - **Voice Activity Detection (VAD)**: Detects any speech activity. This lightweight model runs on the client device, and uses the Silero-VAD model ([Github](https://github.com/snakers4/silero-vad))
